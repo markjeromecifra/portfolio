@@ -5,6 +5,7 @@ Hello! My name is Mark Jerome Cifra, and I am an aspiring data analyst with a pa
 ### Personal Projects
 
 #### Excel
+- [**Freelancer Earnings Analysis**](https://github.com/markjeromecifra/portfolio/tree/main/Freelancer%20Earnings%20Analysis): An Excel dashboard project analyzing freelancer earnings by platform and job category. Key insights include top-earning categories, most popular jobs, and earnings trends.
 - [**Maven Roasters Coffee Sales**](https://github.com/markjeromecifra/portfolio/tree/main/Maven%20Roasters%20Coffee%20Sales%20(Excel)): This project analyzes coffee sales data using Excel. The dataset includes details like product names, sales amounts, quantities sold, and supplier info. Excel functions and pivot tables are used to uncover insights, and a dashboard is created to show sales trends and performance.
 
 #### SQL & Tableau
